@@ -38,7 +38,7 @@ Aucun contenu ne vous est livré. Il s'agit de débuter un tout nouveau projet d
 
 Vous transmettez à votre enseignant, via un message teams personnel, une archive de votre projet.
 
-Nommage : GPR1_<votrePrenom>.zip
+Nommage : GPR1_votrePrenom.zip
 
 !!!Prenez bien le répertoire .git!!!
 
